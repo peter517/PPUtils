@@ -3,6 +3,10 @@
 #################
 
 
+#idea
+.idea/
+PPUtils.iml
+
 #source insight as sytle
 *.orig
 
