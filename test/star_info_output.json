@@ -1,0 +1,42 @@
+{
+  "result": [
+    {
+      "/common/entity/image": [
+        {
+          "/common/image/thumbnail0_0": [
+            "http://s2.zimgs.cn/ims?kt=MD5&at=smk&key=B9662D9109D35A367EE5E59E608009C3&tv=0_0&x.jpg"
+          ]
+        },
+        {
+          "/common/image/thumbnail0_0": [
+            "http://s2.zimgs.cn/ims?kt=MD5&at=smk&key=1A81CC8354C26CC2EED59594E124424B&tv=0_0&x.jpg"
+          ]
+        },
+        {
+          "/common/image/thumbnail0_0": [
+            "http://s2.zimgs.cn/ims?kt=MD5&at=smk&key=214F4A380968B4FAB8995621180196AE&tv=0_0&x.jpg"
+          ]
+        },
+        {
+          "/common/image/thumbnail0_0": [
+            "http://s2.zimgs.cn/ims?kt=MD5&at=smk&key=46B12D31F79599C32A19C0C8DDAECC03&tv=0_0&x.jpg"
+          ]
+        },
+        {
+          "/common/image/thumbnail0_0": [
+            "http://s2.zimgs.cn/ims?kt=MD5&at=smk&key=3512018937EA6805791B15AF2164D295&tv=0_0&x.jpg"
+          ]
+        },
+        {
+          "/common/image/thumbnail0_0": [
+            "http://s2.zimgs.cn/ims?kt=MD5&at=smk&key=B93686727F28BEA98A0A791014E1ADBA&tv=0_0&x.jpg"
+          ]
+        }
+      ],
+      "code": "success",
+      "guid": "badec06e-4727-11e5-8fdc-f80f41fb03aa",
+      "name": "李治廷"
+    }
+  ],
+  "status": "success"
+}

@@ -45,6 +45,7 @@ class LoveOfFatherAndMother:
 if __name__ == '__main__':
     loveOfFatherAndMother = LoveOfFatherAndMother()
     # 每天输出粑粑麻麻对你爱的数值,数值每天都在随机的增加
+    print sys.maxint
     while True:
         print(loveOfFatherAndMother.get_love_total())
         time.sleep(ONE_DAY_S)
