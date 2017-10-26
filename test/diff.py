@@ -9,8 +9,16 @@ try:
     src = file_object1.readlines()
     target = file_object2.readlines()
     ret_list = []
+    target_no_spacial_char = []
+    src_no_spacial_char = []
+
     for item in target:
-        if item not in src:
+        target_no_spacial_char.append(item.strip('\n'))
+    for item in src:
+        src_no_spacial_char.append(item.strip('\n'))
+
+    for item in target_no_spacial_char:
+        if item not in src_no_spacial_char:
             ret_list.append(item)
 finally:
     file_object1.close()
@@ -25,6 +33,6 @@ print 1 - ((float)(len(ret_list)) / len(target))
 
 fo = open("diff_not_include.txt", "w")
 for item in ret_list:
-    fo.write(item)
+    fo.write(item + "\n")
 fo.close()
 
