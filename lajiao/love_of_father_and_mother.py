@@ -5,11 +5,10 @@
 @author: pengjun.pj
 """
 
-import sys
-import random
 import datetime
+import random
+import sys
 import time
-
 
 class StringUtils:
     def __init__(self):

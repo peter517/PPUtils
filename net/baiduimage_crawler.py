@@ -1,16 +1,16 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-
-
-import os
-import urllib
-import json
-from urllib import quote
-import socket
 import sys
-
 reload(sys)
 sys.setdefaultencoding('utf-8')
+
+import json
+import os
+import socket
+import urllib
+from urllib import quote
+
+
 
 # 设置超时
 socket.setdefaulttimeout(20)

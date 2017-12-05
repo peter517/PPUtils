@@ -1,7 +1,8 @@
-from email.MIMEText import MIMEText
-from email.MIMEMultipart import MIMEMultipart
 import smtplib
 import sys
+
+from email.MIMEMultipart import MIMEMultipart
+from email.MIMEText import MIMEText
 
 class STMPEmailSender:
     

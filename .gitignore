@@ -9,6 +9,7 @@ PPUtils.iml
 
 #source insight as sytle
 *.orig
+*/*.xls*
 
 gen/
 *.pydevproject

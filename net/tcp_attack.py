@@ -3,9 +3,8 @@
 
 import socket
 import sys
-import os
-import time
 import thread
+import time
 
 if __name__ == '__main__':
 

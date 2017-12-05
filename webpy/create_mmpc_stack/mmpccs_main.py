@@ -1,7 +1,7 @@
-import web, os
-import subprocess
-import commands
 import sys
+
+import os
+import web
 
 reload(sys)
 sys.setdefaultencoding('utf8')
