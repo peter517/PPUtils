@@ -65,7 +65,7 @@ try:
     for word in word_lines:
         print "getImagesURL word " + word
         try:
-            getImagesURL(10, word)
+            getImagesURL(20, word)
         except Exception as e:
             print e
 finally:

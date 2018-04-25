@@ -1,0 +1,115 @@
+{
+  "persons": {
+    "main_emotion": {
+      "sadness": 0.1,
+      "neutral": 0.9,
+      "anger": 0,
+      "happiness": 0
+    },
+    "number_of_main_characters": 4,
+    "stars": [
+      {
+        "id": "1234",
+        "name": "范冰冰",
+        "gender": "女",
+        "age_in_the_show": 30,
+        "emotion": {
+          "sadness": 0,
+          "neutral": 0,
+          "anger": 0.9,
+          "happiness": 0.1
+        },
+        "proportion": 0.32,
+        "order": 1,
+        "appear_points": [
+          0,
+          1,
+          5
+        ]
+      },
+      {
+        "id": "12345",
+        "name": "张丰毅",
+        "gender": "男",
+        "age_in_the_show": 40,
+        "emotion": {
+          "sadness": 0.1,
+          "neutral": 0.9,
+          "anger": 0,
+          "happiness": 0
+        },
+        "proportion": 0.22,
+        "order": 2,
+        "appear_points": [
+          0,
+          1,
+          6
+        ]
+      }
+    ]
+  },
+  "scenes": {
+    "colors": {
+      "red": 0.4,
+      "orange": 0.2,
+      "green": 0.2,
+      "blue": 0.2,
+      "purple": 0.2,
+      "black": 0.012,
+      "white": 0.011,
+      "cyan": 0.033,
+      "yellow": 0.01
+    },
+    "near_distance": 0.3,
+    "middle_distance": 0.3,
+    "remote_distance": 0.3,
+    "tone": 0.5,
+    "brightness": 0.5,
+    "changes": 0.5,
+    "type": 0.4
+  },
+  "objects": {
+    "main_objects": [
+      {
+        "name": "枪",
+        "order": 1
+      },
+      {
+        "name": "桌子",
+        "order": 2
+      }
+    ]
+  },
+  "other": {
+    "topic": [
+      "车祸",
+      "悲惨"
+    ],
+    "show_genre": {
+      "name": "电视剧",
+      "sub_genre": [
+        "言情",
+        "搞笑"
+      ]
+    },
+    "show_year": 1980,
+    "country": "美国",
+    "subject": [
+      "校园",
+      "亲情"
+    ],
+    "performer": [
+      "中生代",
+      "偶像派",
+      "实力派"
+    ],
+    "role": [
+      "总裁",
+      "律师"
+    ],
+    "roleto": [
+      "富二代",
+      "灰姑娘"
+    ]
+  }
+}
